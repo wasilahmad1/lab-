@@ -7,3 +7,6 @@ again making changes in first step
 
 making changes in feature branch
 making again changes in feature branch
+
+
+making changes in main after deleting feature branch from both local and remote repository
